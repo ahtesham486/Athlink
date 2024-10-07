@@ -9,7 +9,6 @@ astunparse==1.6.3
 attrs==23.1.0
 Babel==2.10.3
 backoff==2.2.1
-basicsr==1.4.2
 beautifulsoup4==4.12.2
 bidict==0.23.0
 blender.distutils==1.0.5
